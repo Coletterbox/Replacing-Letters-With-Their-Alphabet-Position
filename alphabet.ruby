@@ -10,3 +10,7 @@ def alphabet_position(text)
   }
   return result.join(" ")
 end
+
+# examples:
+# alphabet_position("abc") - returns "1 2 3"
+# alphabet_position("hello") - returns "8 5 12 12 15"
